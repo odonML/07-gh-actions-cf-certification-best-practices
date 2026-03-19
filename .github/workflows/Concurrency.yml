@@ -1,4 +1,4 @@
-name: Summary
+name: Concurrency
 on:
   push:
     branches:
